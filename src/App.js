@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <h1>Olá GamaAcademy</h1>
+      <h1>Bem vindo grande Monarca!</h1>
       <Profile />
       { !isLogin && (
         <div>
